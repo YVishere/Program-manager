@@ -1,3 +1,5 @@
+#uploaded on 24th may 2023 to detect pyhton files in a folder and to display them (needs a main method); Problem found - unable to display files that contain photos 
+
 from PIL import ImageTk, Image
 from tkinter import *
 import Login as Lg
